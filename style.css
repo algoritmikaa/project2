@@ -1,0 +1,151 @@
+body {
+    background-color: #0d0d12;
+    color: #ffffff;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #171721;
+    border-bottom: 4px solid #602b7b;
+    text-align: center;
+    padding: 30px;
+    margin: 0;
+}
+
+h1 {
+    color: #b874ff;
+    font-size: 48px;
+    margin: 10px;
+}
+
+nav {
+    text-align: center;
+    padding: 25px;
+    background-color: #0d0d12;
+}
+
+nav a {
+    background-color: #171721;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 8px;
+    border: 2px solid #602b7b;
+    font-size: 18px;
+}
+
+main {
+    background-color: #171721;
+    margin: 40px;
+    padding: 50px;
+    border-radius: 20px;
+    border: 2px solid #333344;
+}
+
+h2 {
+    color: #b874ff;
+    font-size: 36px;
+    border-bottom: 2px solid #602b7b;
+    padding: 15px;
+}
+
+p {
+    font-size: 18px;
+    padding: 5px;
+}
+
+p.text-block {
+    color: #cccccc;
+    font-size: 20px;
+    padding: 15px;
+    text-align: left;
+}
+
+img.gallery-img {
+    width: 30%;
+    height: 250px;
+    border-radius: 15px;
+    border: 4px solid #602b7b;
+    margin: 1%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 30px;
+    background-color: #0d0d12;
+}
+
+td {
+    border: 2px solid #602b7b;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: #e0e0e0;
+}
+
+td.table-header {
+    background-color: #602b7b;
+    color: #ffffff;
+    font-size: 24px;
+}
+
+form {
+    background-color: #0d0d12;
+    padding: 40px;
+    margin: 30px;
+    border-radius: 15px;
+    border: 2px solid #602b7b;
+}
+
+p.form-row {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+label.form-label {
+    color: #b874ff;
+    font-size: 22px;
+    padding: 10px;
+}
+
+input.form-input, select.form-input {
+    background-color: #171721;
+    color: #ffffff;
+    border: 2px solid #602b7b;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    font-size: 18px;
+    width: 60%;
+}
+
+input.submit-btn {
+    background-color: #602b7b;
+    color: #ffffff;
+    font-size: 24px;
+    border: 2px solid #b874ff;
+    padding: 18px;
+    border-radius: 30px;
+    width: 40%;
+    margin: 25px;
+}
+
+footer {
+    background-color: #171721;
+    border-top: 4px solid #602b7b;
+    text-align: center;
+    padding: 40px;
+    margin: 0;
+}
+
+p.footer-text {
+    color: #888888;
+    font-size: 18px;
+    margin: 5px;
+    padding: 5px;
+}
